@@ -56,4 +56,4 @@ For a detailed list of available API endpoints and their descriptions, please re
 
 ## Frontend
 
-Checkout [assetBlend-frontend](https://github.com/SukruthMS/assetBlend-frontend) for the backend implementation
+Checkout [assetBlend-frontend](https://github.com/SukruthMS/assetBlend-frontend) for the frontend implementation
