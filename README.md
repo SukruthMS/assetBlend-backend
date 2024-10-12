@@ -53,3 +53,7 @@ For a detailed list of available API endpoints and their descriptions, please re
 
 ## 📦 Database
 ![ER Diagram](./ERD.jpeg "ER Diagram")
+
+## Frontend
+
+Checkout [assetBlend-frontend](https://github.com/SukruthMS/assetBlend-frontend) for the backend implementation
