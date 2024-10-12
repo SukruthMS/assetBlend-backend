@@ -44,7 +44,7 @@ AssetBlend Backend is a scalable and efficient server-side application built wit
 
 ## 🔐 API Endpoints
 
-For a detailed list of available API endpoints and their descriptions, please refer to the [API Endpoints Documentation](https://github.com/gsakshay/assetBlend-backend/blob/main/API_Endpoints.md).
+For a detailed list of available API endpoints and their descriptions, please refer to the [API Endpoints Documentation](https://github.com/SukruthMS/assetBlend-backend/blob/main/API_ENDPOINTS.md).
 
 ## 🚀 Scaling Considerations
 
